@@ -16,7 +16,7 @@ async def on_message(message):
     if message.author == client.user:
         return
         
-    if message.content.startswith('cfur help')
+    if message.content.startswith('cfur help'):
         await mssage.channel.send('`Crystal Fur#5411` has big plans for this bot!')
 
 # Discord bot token to identify the application

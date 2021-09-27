@@ -1,2 +1,1 @@
-# Crystal Fur's Discord Bot
-Used only on select servers!
+# Crystal Fur#5411 Discord Bot
